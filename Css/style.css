@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+form {
+    border: 1px solid;
+   width: 800px;
+   padding: 16px;
+}
+input,select,textarea{
+    width: 100%;
+}
+input[type=submit],input[type=reset]{
+    width: auto;
+    
+}
+table{
+    width:500px;
+    border: solid;
+    border-collapse: collapse;
+    
+}
+th,td{
+    border: solid;
+    border-radius: 5px;
+}
+a{
+    border-right: 1px solid;
+    padding: 5px ;
+}
